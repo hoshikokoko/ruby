@@ -10,7 +10,7 @@ while i <= num do
   
   a = gets.to_i
   b = gets.to_i
-b  
+  
   puts "a=#{a}"
   puts "b=#{b}"
   
